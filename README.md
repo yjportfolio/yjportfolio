@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ..... data science in particular, hypothesis testing and the techniques to formulate null hypothesis vs alternative hypothesis.
 - 💞️ I’m looking to collaborate on ..... we can connect, exchange pointers and discuss further.
 - 📫 How to reach me ...
-- ⚡ Fun fact: ..... fresh salmon baked with herbs, sprinkled with a dash of sea salt, paprika and tabasco, top it off with a generous amount of lemon juice accompanied with a poach egg, cooked by me. 
+- ⚡ Fun fact: ...
 
 <!---
 yjportfolio/yjportfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
