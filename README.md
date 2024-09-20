@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ..... a self taught python programmer and data analyst, I constantly acquire knowledge and skills to boost my portfolio and working towards my goal to be a data scientist.
-- 👀 I’m interested in ..... data science, database and programming. This github was created to showcase my dashboard portfolio that I implemented through the etl process from python programming.
+- 👀 I’m interested in ..... data science, statistics, database and programming. This github was created to showcase my dashboard portfolio that I implemented through the etl process from python programming.
 - ❔ How did I create the dashboard? ..... retrieve data from mysql database to dataframe ---> cleanse dataframe in python ---> python plot data dashboard.
 - 🐍 The python package/library that I use often ..... numpy, pandas, matplotlib, seaborn, plotly and exploring many more.
 - 🌱 I’m currently learning ..... in particular hypothesis testing, and the techniques to formulate null hypothesis vs alternative hypothesis.
